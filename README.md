@@ -7,3 +7,5 @@ To run the file follow thw steps:
 2.Create the Database in the wamp server.
 3.connect the file to the database.
 4.run the file
+
+link for Wamp server is https://sourceforge.net/projects/wampserver/
