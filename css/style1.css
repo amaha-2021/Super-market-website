@@ -1,0 +1,56 @@
+h4{
+	font: italic small-caps bolder 20px arial , sans-serif;
+}
+.left
+{
+	padding: 5px;
+	float: left;
+}
+
+.right
+{
+	padding:5px;
+	float: right;
+}
+#image{
+	float: right;
+	padding: 0px 20px 20px 20px
+}
+.signup_image{
+	float: left;
+	padding: 0px 20px 20px 20px
+
+}
+#identity{
+	float: left;
+}
+
+#backgroung_image{
+  background-image: url("img/bat_cover.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  height: 500px
+}
+
+#content{
+	max-width: 600px;
+	max-height: 300px;
+	padding-top: 200px;
+	padding-bottom: 100px;
+	color: white;/* color of the text content with in this div */	
+}
+table{
+	border: none;
+	width:100%;
+	
+}
+th,td{
+	border:none;
+	padding: 15px;
+	height: 30px;
+}
+th{
+	text-align: left;
+	background-color: #F4E5DF
+}
